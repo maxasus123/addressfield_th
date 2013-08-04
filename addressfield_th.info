@@ -1,0 +1,10 @@
+name = Addressfield Thailad
+description = This module is a plugin for Addressfield. It provides a user friendly Thailand address form.
+core = 7.x
+package = Fields
+
+; dependencies
+dependencies[] = ctools
+dependencies[] = addressfield
+
+
